@@ -11,7 +11,7 @@ const cuestionOneTerror = document.getElementById("cuestion1-terror");
 const getName = () =>{
   primerSection.classList.add("desappear");
   sectionApppear.classList.remove("desappear");
-  content.innerHTML = "¡Hola! " + inputName.value
+  content.innerHTML = "¡Hola, Bienvenida! " + inputName.value
 
 }
 const getCuestionFantasy = () =>{
