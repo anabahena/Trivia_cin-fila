@@ -1,0 +1,92 @@
+body{
+  background: url(https://cincine.files.wordpress.com/2016/04/cropped-801751-film-wallpaper.jpg)
+}
+
+.desappear{
+  display: none;
+  }
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 90px;
+  color: yellow;
+  text-align: center;
+}
+label{
+  color: yellow;
+  margin-left: 100px;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+.p{
+  text-align: center;
+  color: yellow;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+#input-name{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  margin-left:30%;
+
+}
+#button-name{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+#button-fantasy{
+  color: black;
+  margin-left: center;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+#button-terror{
+  color: black;
+  margin-left: center;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+p2{
+  color: blue;
+  font-size: 45px;
+  margin-left: 100px;
+  text-align: ;
+  font-family: 'Lobster', cursive;
+  padding: 40px;
+}
+p3{
+  color: blue;
+  margin-left: 100px;
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+p4{
+  color: yellow;
+  margin-left: 100px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+p5{
+  color: white;
+  margin-left: 100px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+#content{
+  color: red;
+  font-size: 75px;
+  margin-left: 50px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
